@@ -1,6 +1,6 @@
 import java.util.TreeMap;
 
-public class Main {
+public class findingFrequencyWithTreeMap {
 
     public static void main(String[] args) {
         TreeMap<Integer, Integer> numbers = new TreeMap<>();
